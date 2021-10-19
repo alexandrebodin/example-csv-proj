@@ -1,0 +1,5 @@
+# Example project
+
+## Client
+
+## Server
